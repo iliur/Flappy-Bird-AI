@@ -1,4 +1,4 @@
-# Flappy-Bird-AI
+# Flappy Bird brute-force-machine-learning
 
 Coded a knock-off flappy bird game
 
